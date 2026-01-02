@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NaijaSafeDrive MVP",
+  "description": "An offline-first road safety app for Nigeria that warns drivers of high-risk road segments using FRSC-inspired data and AI insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
